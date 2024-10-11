@@ -45,7 +45,7 @@
 	- Toán tử  
 	- Các cách so sánh 2 biến  
 	- Type Casting  
-5. Memory (2 ngày)  
+5. memory (2 ngày)  
 	- Vùng nhớ Heap và Stack  
 	- String Pool  
 6. Câu lệnh điều kiện (1 ngày)  
